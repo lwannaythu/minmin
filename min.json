@@ -4,47 +4,48 @@
 
 {
          "name": "DTAC-SG-001-FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-1.ovpn"
+         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/DTAC-1.ovpn"
       },
-
 {
          "name": "DTAC-SG-002-FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-2.ovpn"
+         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/DTAC-2.ovpn"
       },
-
 {
          "name": "DTAC-SG-003-FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-3.ovpn"
+         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/DTAC-3.ovpn"
       },
-
 {
          "name": "DTAC-SG-004-FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-4.ovpn"
+         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/DTAC-4.ovpn"
+     },
+{
+         "name": "DTAC-SG-005-FREE",
+         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/DTAC-5.ovpn"
       },
-
 {
          "name": "TRUE-SG-001-FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-5.ovpn"
+         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/TRUE-1.ovpn"
       },
-
 {
          "name": "TRUE-SG-002-FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-1.ovpn"
+         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/TRUE-2.ovpn"
       },
-
 {
          "name": "TRUE-SG-003-FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-1.ovpn"
+         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/TRUE-3.ovpn"
       },
-
 {
          "name": "TRUE-SG-004-FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-9.ovpn"
+         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/TRUE-4.ovpn"
+     },
+{
+         "name": "TRUE-SG-005-FREE",
+         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/TRUE-5.ovpn"
       }
 
 
 ],
-"message":"✅New Servers Update✅\n•🚀Add All New Servers🚀\n•Version:3\n\n•Owner By: AyeMin\n\n✅Fixed SG-001✅\n\n✅🎮100% Gaming VPN🎮✅ ",
+"message":"✅New Servers Update✅\n•🚀Add All New Servers🚀\n•Version:4\n\n•Owner By: AyeMin\n\n✅Fixed SG-001✅\n\n✅🎮100% Gaming VPN🎮✅ ",
    "title":"💙29 July 2022💙" ,
-   "version": 3
+   "version": 4
 }
